@@ -362,11 +362,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('➕ 𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗬𝗢𝗨𝗥𝗘 𝗚𝗥𝗢𝗨𝗣𝗦 ➕', url='https://t.me/LOKI_AUTOFILTER_bot?startgroup=true')
+            InlineKeyboardButton('➕ 𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗬𝗢𝗨𝗥𝗘 𝗚𝗥𝗢𝗨𝗣𝗦 ➕', url='http://t.me/FSLoki_bot?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 𝗦𝗘𝗔𝗥𝗖𝗛 𝗛𝗘𝗥𝗘', switch_inline_query_current_chat=''),
             InlineKeyboardButton('⚜️ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 ⚜️', url='https://t.me/Filmspoterchannel')
-            InlineKeyboardButton('⚜️ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 ⚜️', url='https://t.me/Filmspoterchannel')
+            InlineKeyboardButton('💬group💬', url='https://t.me/Filmspoters')
             ],[
             InlineKeyboardButton('ℹ️ 𝗛𝗘𝗟𝗣', callback_data='help'),
             InlineKeyboardButton('😊 𝗔𝗕𝗢𝗨𝗧 😊', callback_data='about')
