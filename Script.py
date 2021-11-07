@@ -1,6 +1,6 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝗠𝗬 𝗡𝗔𝗠𝗘 𝗜𝗦 <a href='https://t.me/LOKI_AUTOFILTER_bot'>𝗟𝗢𝗞𝗜 𝗟𝗔𝗨𝗙𝗘𝗦𝗢𝗡</a>, 𝗔 𝗨𝗡𝗟𝗜𝗠𝗜𝗧𝗘𝗗 𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥 + 𝗙𝗜𝗟𝗧𝗘𝗥 𝗕𝗢𝗧 𝗪𝗜𝗧𝗛 𝗠𝗔𝗡𝗬 𝗔𝗕𝗜𝗟𝗜𝗧𝗜𝗘𝗦.
+    START_TXT = ""𝙷𝙴𝙻L𝙾 {},
+𝗠𝗬 𝗡𝗔𝗠𝗘 𝗜𝗦 <a href='https://t.me/FSLoki_bot'>𝗟𝗢𝗞𝗜 𝗟𝗔𝗨𝗙𝗘𝗦𝗢𝗡</a>, 𝗔 𝗨𝗡𝗟𝗜𝗠𝗜𝗧𝗘𝗗 𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥 + 𝗙𝗜𝗟𝗧𝗘𝗥 𝗕𝗢𝗧 𝗪𝗜𝗧𝗛 𝗠𝗔𝗡𝗬 𝗔𝗕𝗜𝗟𝗜𝗧𝗜𝗘𝗦.
 
 𝗬𝗢𝗨 𝗖𝗔𝗡 𝗨𝗦𝗘 𝗠𝗘 𝗜𝗡 𝗬𝗢𝗨'𝗥𝗘 𝗚𝗥𝗢𝗨𝗣 𝗕𝗬 𝗦𝗜𝗠𝗣𝗟𝗘 𝗦𝗧𝗘𝗣𝗦 𝗝𝗨𝗦𝗧 𝗔𝗗𝗗 𝗠𝗘 𝗜𝗡 𝗬𝗢𝗨'𝗥𝗘 𝗚𝗥𝗢𝗨𝗣 𝗔𝗡𝗗 𝗠𝗔𝗞𝗘 𝗠𝗘 𝗔𝗦 𝗔𝗗𝗠𝗜𝗡 𝗜𝗡 𝗬𝗢𝗨'𝗥𝗘 𝗚𝗥𝗢𝗨𝗣 𝗔𝗡𝗗 𝗦𝗘𝗘 𝗠𝗬 𝗣𝗢𝗪𝗘𝗥𝗦 🔥🔥
 
@@ -8,18 +8,21 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: LOKI LAUFESON 
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: @TOM_HOLLA_ND
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
-    SOURCE_TXT = """<b>NOTE:</b>
-- I'M NOT A OPEN SOURCE PROJECT 
-- PLEASE CONTACT MY MASTER FOR MY DOUBTS AND COMPLAINTS 
+   Hellooo    {} 🤓
+    
+○ My Name : 𝗟𝗢𝗞𝗜 𝗟𝗔𝗨𝗙𝗘𝗦𝗢𝗡(http://t.me/FSLoki_bot)
+○ Creator : Filmspoter(https://t.me/filmspoteradmin)
+○ Language : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+○ Library : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼(https://docs.pyrogram.org/)
+○ Supported Site : Telegram(https://my.telegram.org/)
+○ Source Code : Source(https://t.me/AdhavaaBiriyaniKittiyalo)
+○ Server : Heroku(https://herokuapp.com)
+○ Database : MongoDB(https://www.mongodb.com)
+○ Build Status : v1.0.1 [ 𝙱𝙴𝚃𝙰 ]]"""
+    
 
 <b>𝗠𝗔𝗦𝗧𝗘𝗥:</b>
-- <a href=https://t.me/TOM_HOLLA_ND>𝗧𝗢𝗠 𝗛𝗢𝗟𝗟𝗔𝗡𝗗</a>"""
+- <a href=https://t.me/filmspoteradmin</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
